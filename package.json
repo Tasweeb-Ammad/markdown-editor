@@ -1,0 +1,28 @@
+{
+  "name": "realtimemarkdownviewer",
+  "version": "1.0.0",
+  "description": "Realtime Markdown Viewer",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Tasweeb-Ammad/markdown-editor.git"
+  },
+  "keywords": [
+    "[\"markdown\"",
+    "\"realtime\"",
+    "\"sharejs\"]"
+  ],
+  "author": "Tasweeb Ammad",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Tasweeb-Ammad/markdown-editor/issues"
+  },
+  "homepage": "https://github.com/Tasweeb-Ammad/markdown-editor#readme",
+  "dependencies": {
+    "ejs": "^3.1.10",
+    "express": "^4.19.2"
+  }
+}
